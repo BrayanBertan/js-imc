@@ -1,0 +1,12 @@
+div {
+    background-color: azure;
+    width: 250px;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid black;
+}
+
+p {
+    text-align: center;
+}
+
